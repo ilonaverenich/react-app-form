@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-app-form/static/css/main.bd9a72fb.css",
-    "main.js": "/react-app-form/static/js/main.c1b5eeee.js",
+    "main.css": "/react-app-form/static/css/main.cb403cc4.css",
+    "main.js": "/react-app-form/static/js/main.fc81d0d0.js",
     "index.html": "/react-app-form/index.html",
-    "main.bd9a72fb.css.map": "/react-app-form/static/css/main.bd9a72fb.css.map",
-    "main.c1b5eeee.js.map": "/react-app-form/static/js/main.c1b5eeee.js.map"
+    "main.cb403cc4.css.map": "/react-app-form/static/css/main.cb403cc4.css.map",
+    "main.fc81d0d0.js.map": "/react-app-form/static/js/main.fc81d0d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd9a72fb.css",
-    "static/js/main.c1b5eeee.js"
+    "static/css/main.cb403cc4.css",
+    "static/js/main.fc81d0d0.js"
   ]
 }
